@@ -11,10 +11,12 @@ video's view count at the deadline, so the ad is built to be watched to the
 end: a surprising claim in the first two seconds, one short idea per scene,
 and a twist near the end (the ad itself is an entry in a $500 bounty).
 
-`VIDEO.json` names the TikTok video. It currently holds a placeholder
-address; the real one replaces it in a follow-up commit once the video is
-posted. `main.ts` copies `VIDEO.json` to the output directory — that is all
-the program does; the house reads the video and its counts itself.
+**The video:** Watch it on TikTok: https://www.tiktok.com/@7tomars/video/7710774618616892693
+
+`VIDEO.json` names the TikTok video:
+https://www.tiktok.com/@7tomars/video/7710774618616892693. `main.ts` copies
+`VIDEO.json` to the output directory — that is all the program does; the
+house reads the video and its counts itself.
 
 ## The video
 
